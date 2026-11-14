@@ -1,0 +1,9 @@
+Format: Bloom subset of https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: mocap4r2_optitrack_driver
+Upstream-Contact: https://github.com/MOCAP4ROS2-Project/mocap4ros2_optitrack/issues
+Source: https://github.com/MOCAP4ROS2-Project/mocap4ros2_optitrack
+
+Files: See file headers in repository for details
+Copyright: See package copyright in source code for details
+License: Apache-2.0
+ See repository for full license text
